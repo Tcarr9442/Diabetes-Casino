@@ -1,0 +1,23 @@
+{
+  "name": "diabetes-casino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tcarr9442/Diabetes-Casino.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tcarr9442/Diabetes-Casino/issues"
+  },
+  "homepage": "https://github.com/Tcarr9442/Diabetes-Casino#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-cron": "^3.0.0"
+  }
+}
