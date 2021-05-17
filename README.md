@@ -2,6 +2,6 @@
  
 ## Installation
 
-`npm i`
-write code in `index.js`
-`node .` to run
+`npm i`\
+write code in `index.js`\
+`node .` to run\
